@@ -1,52 +1,7 @@
 ---
 ---
-body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 15px;
-  font-weight: 400;
-  line-height: 1.5;
-  color: #666;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
-}
+h1.project-name {
+  font-family: 'Architects Daughter';
 
-p {
-  margin-top: 0;
 }
-
-a {
-  color: #2879d0;
-}
-a:hover {
-  color: #2268b2;
-}
-
-page-header {
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
-}
-header h1 {
-  width: 540px;
-  margin-top: 0;
-  margin-bottom: 0.2em;
-  font-size: 72px;
-  font-weight: normal;
-  line-height: 1;
-  color: #fff;
-  letter-spacing: -1px;
-}
-
-header h2 {
-  width: 540px;
-  margin-top: 0;
-  margin-bottom: 0;
-  font-size: 26px;
-  font-weight: normal;
-  line-height: 1.3;
-  color: #9ddcff;
-  letter-spacing: 0;
-}
-
 @import "{{ site.theme }}";
