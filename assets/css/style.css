@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
+body.page-header {
   color: #fff;
   text-align: center;
   background-color: #159957;
