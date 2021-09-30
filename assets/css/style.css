@@ -1,7 +1,6 @@
 ---
 ---
+@import "{{ site.theme }}";
 .project-name {
   font-family: 'Architects Daughter';
-
 }
-@import "{{ site.theme }}";
