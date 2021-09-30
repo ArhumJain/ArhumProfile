@@ -1,5 +1,5 @@
 ---
 ---
-$header-bg-color-secondary: #1a1b27
-$header-bg-color: #2f308
+$header-bg-color-secondary: #1a1b27;
+$header-bg-color: #2f308;
 @import "{{ site.theme }}";
