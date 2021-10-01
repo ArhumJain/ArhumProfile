@@ -1,22 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-.page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #fff;
-  background-image: linear-gradient(120deg, #1a1b27, #2f308);
-
-  @include large {
-    padding: 5rem 6rem;
-  }
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-  }
-}
+@import 'jekyll-theme-cayman';
