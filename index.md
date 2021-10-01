@@ -1,4 +1,4 @@
-<img align="center" src="/assets/introtokyonightcustom.gif" alt="👋 Hi there! I'm Arhum Jain" title="👋 Hi there! I'm Arhum Jain!"/>
+<img align="center" src="./assets/introtokyonightcustom.gif" alt="👋 Hi there! I'm Arhum Jain" title="👋 Hi there! I'm Arhum Jain!"/>
 <h3 align="left"><em>I'm a student at ⚍ ᓭ⍑ᔑꖎꖎ リᒷ⍊ᒷ∷ ꖌリ𝙹∴ and ∴⚍ʖʖᔑ ꖎ⚍ʖʖᔑ ↸⚍ʖ ↸⚍ʖ</em></h3>
 
 - 🔭 I’m currently working on **∴⍑𝙹 ꖌリ𝙹∴ᓭ?**
