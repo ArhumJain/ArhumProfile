@@ -4,6 +4,12 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@377&display=swap');
 
+@keyframes fadeIn {
+  0% {opacity: 0%;}
+  50% {opacity: 50%;}
+  100% {opacity: 100%;}
+}
+
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
@@ -130,7 +136,8 @@ a {
   font-family: "Stick No Bills";
   margin-top: 0;
   margin-bottom: 0.1rem;
-
+  animation-name: fadeIn;
+  animation-duration: 3s;
   @include large {
     font-size: 3.25rem;
   }
