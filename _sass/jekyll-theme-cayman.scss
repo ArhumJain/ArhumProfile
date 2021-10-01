@@ -114,7 +114,7 @@ a {
 #githubBtn {
   animation-name: fadeIn;
   animation-duration: 1s;
-  animation-delay: 4.3s;
+  animation-delay: 2.4s;
   animation-fill-mode: both;
   animation-timing-function: ease-in;
 }
@@ -122,7 +122,7 @@ a {
 #potionBtn {
   animation-name: fadeIn;
   animation-duration: 1s;
-  animation-delay: 4.6s;
+  animation-delay: 2.7s;
   animation-fill-mode: both;
   animation-timing-function: ease-in;
 }
@@ -130,7 +130,7 @@ a {
 #galacticBtn {
   animation-name: fadeIn;
   animation-duration: 1s;
-  animation-delay: 4.9s;
+  animation-delay: 3.0s;
   animation-fill-mode: both;
   animation-timing-function: ease-in;
 }
@@ -159,7 +159,7 @@ a {
   margin-top: 0;
   margin-bottom: 0.1rem;
   animation-name: fadeIn;
-  animation-duration: 2.0s;
+  animation-duration: 1s;
   animation-timing-function: ease-in;
   
   @include large {
@@ -179,8 +179,8 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   animation-name: fadeIn;
-  animation-duration: 2s;
-  animation-delay: 2.3s;
+  animation-duration: 1.3s;
+  animation-delay: 1.0s;
   animation-fill-mode: both;
   animation-timing-function: ease-in;
   
@@ -205,7 +205,7 @@ a {
   animation-duration: 2s;
   animation-fill-mode: both;
   animation-timing-function: ease-in;
-  animation-delay: 5.0s;
+  animation-delay: 3s;
   
   :first-child {
     margin-top: 0;
